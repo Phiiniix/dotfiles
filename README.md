@@ -9,6 +9,10 @@ Result :
 
 Theme : [Adw-GTK3](https://aur.archlinux.org/packages/adw-gtk3)
 
+Shell : [Flat Remix Grey Dark Full Panel](https://www.opendesktop.org/p/1013030)
+
+Icons : [Fluent Grey Dark](https://github.com/vinceliuice/Fluent-icon-theme)
+
 Extensions :
 
 [Aylur's Widgets](https://extensions.gnome.org/extension/5338/aylurs-widgets/)
